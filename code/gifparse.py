@@ -1,3 +1,4 @@
+#!/usr/bin/python3.8
 import os
 from PIL import Image, ImageSequence
 
